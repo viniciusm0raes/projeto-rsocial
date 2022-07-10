@@ -16,11 +16,11 @@ html, body {
 }
 
 #esquerda > p {
-    font-size: max(16px, .8vw);
+    font-size: max(16px, 1.7vw);
 }
 
 #esquerda > p {
-    font-size: min(14px, .5vw);
+    font-size: min(14px, 2vw);
 }
 
 
@@ -65,7 +65,7 @@ section#telefone {
         text-align: left;
 	    top: 13px;
         margin: 13px;
-        width: 19vw;
+        width: 35vw;
         color: white;
         text-decoration: none;
         
