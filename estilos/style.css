@@ -11,6 +11,10 @@ html, body {
     width: 100vw;
 }
 
+#esquerda {
+	  float: left;
+}
+
 #esquerda > p {
     font-size: max(12px, 1vw);
 }
