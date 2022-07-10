@@ -16,7 +16,7 @@ html, body {
 }
 
 #esquerda > p {
-    font-size: min(10px, 1.2vw);
+    font-size: min(10px, 1vw);
 }
 
 
