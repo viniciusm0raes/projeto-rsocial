@@ -16,11 +16,11 @@ html, body {
 }
 
 #esquerda > p {
-    font-size: max(16px, 1.2vw);
+    font-size: max(16px, 1vw);
 }
 
 #esquerda > p {
-    font-size: min(14px, 1.6vw);
+    font-size: min(14px, 1.5vw);
 }
 
 
